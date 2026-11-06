@@ -1,0 +1,11 @@
+auth.log
+wtmp
+utmp.py
+notas.md
+*.zip
+*.evtx
+*.pcap
+*.mem
+*.raw
+artifacts/
+evidence/
