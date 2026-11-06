@@ -3,7 +3,7 @@
 Investigaciones DFIR/SOC de Hack The Box Sherlocks. Cada caso incluye
 metodología, línea de tiempo, mapeo a MITRE ATT&CK e ideas de detección.
 
-> Solo casos retirados. No se incluyen artefactos.
+> No se incluyen artefactos.
 
 | Sherlock | Dificultad | Artefactos | Técnicas MITRE | Writeup |
 |---|---|---|---|---|
